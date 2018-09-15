@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="15983" appversion="5.2.2" start="node105">
+  <panorama id="node105" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_1011_o_0.jpg" prev4url="images/360_1011_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_1011_o_2.jpg" prev2url="images/360_1011_o_preview_2.jpg" prev5url="images/360_1011_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_1011_o_preview_1.jpg" tile1url="images/360_1011_o_1.jpg" tile5url="images/360_1011_o_5.jpg" tile4url="images/360_1011_o_4.jpg" prev3url="images/360_1011_o_preview_3.jpg" tile3url="images/360_1011_o_3.jpg" prev0url="images/360_1011_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-13.13" tilt="-4.45" projection="4" fov="102.8"/>
+      <flyin pan="-13.13" tilt="-4.45" projection="4" fov="102.8"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="PHOTO mode" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-17.3" url="{node106}" title="" tilt="-6.39" description="" skinid="ht_node" id="Entrada1" target="-77.6/-1.8/70.0"/>
+      <hotspot pan="75.2" url="{node71}" title="" tilt="-3.41" description="" skinid="ht_node" id="Entrada3" target="23.6/-5.5/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node106" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_1012_o_0.jpg" prev4url="images/360_1012_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_1012_o_2.jpg" prev2url="images/360_1012_o_preview_2.jpg" prev5url="images/360_1012_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_1012_o_preview_1.jpg" tile1url="images/360_1012_o_1.jpg" tile5url="images/360_1012_o_5.jpg" tile4url="images/360_1012_o_4.jpg" prev3url="images/360_1012_o_preview_3.jpg" tile3url="images/360_1012_o_3.jpg" prev0url="images/360_1012_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Entrada1" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 16:25:03" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="88.01" url="{node105}" title="" tilt="-4.47" description="" skinid="ht_node" id="EntradaRetorno1" target="154.7/-4.3/95.0"/>
+      <hotspot pan="-70.74" url="{node107}" title="" tilt="-2.32" description="" skinid="ht_node" id="Entrada2" target="-75.5/-15.8/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node107" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_1013_o_0.jpg" prev4url="images/360_1013_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_1013_o_2.jpg" prev2url="images/360_1013_o_preview_2.jpg" prev5url="images/360_1013_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_1013_o_preview_1.jpg" tile1url="images/360_1013_o_1.jpg" tile5url="images/360_1013_o_5.jpg" tile4url="images/360_1013_o_4.jpg" prev3url="images/360_1013_o_preview_3.jpg" tile3url="images/360_1013_o_3.jpg" prev0url="images/360_1013_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Entrada2" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 16:25:29" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="95.21" url="{node106}" title="" tilt="-1.06" description="" skinid="ht_node" id="EntradaRetorno3" target="89.2/-4.7/70.0"/>
+      <hotspot pan="-78.37" url="{node12}" title="" tilt="-4.48" description="" skinid="ht_node" id="Entrada5" target="-56.5/-9.5/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0948_o_0.jpg" prev4url="images/360_0948_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0948_o_2.jpg" prev2url="images/360_0948_o_preview_2.jpg" prev5url="images/360_0948_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0948_o_preview_1.jpg" tile1url="images/360_0948_o_1.jpg" tile5url="images/360_0948_o_5.jpg" tile4url="images/360_0948_o_4.jpg" prev3url="images/360_0948_o_preview_3.jpg" tile3url="images/360_0948_o_3.jpg" prev0url="images/360_0948_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="82"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Oficina_1" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-24.25" url="{node11}" title="" tilt="-2.21" description="" skinid="ht_node" id="IzquierdaOficina" target="-75.9/-3.6/70.0"/>
+      <hotspot pan="-90.76" url="{node12}" title="" tilt="-7.44" description="" skinid="ht_node" id="DerechaOficina" target="159.6/-12.0/70.0"/>
+      <hotspot pan="91.07" url="{node7}" title="" tilt="-7.06" description="" skinid="ht_node" id="RetornoInicio1" target="349.5/-2.5/96"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0966_o_0.jpg" prev4url="images/360_0966_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0966_o_2.jpg" prev2url="images/360_0966_o_preview_2.jpg" prev5url="images/360_0966_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0966_o_preview_1.jpg" tile1url="images/360_0966_o_1.jpg" tile5url="images/360_0966_o_5.jpg" tile4url="images/360_0966_o_4.jpg" prev3url="images/360_0966_o_preview_3.jpg" tile3url="images/360_0966_o_3.jpg" prev0url="images/360_0966_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="86" tilt="-10" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Oficina_2" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="91.95" url="{node7}" title="" tilt="-9.38" description="" skinid="ht_node" id="RetornoInicio1" target="-15.0/-0.7/82.0"/>
+      <hotspot pan="105.82" url="{node10}" title="" tilt="-9.24" description="" skinid="ht_node" id="Oficina1" target="111/-8.5/82"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0968_o_0.jpg" prev4url="images/360_0968_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0968_o_2.jpg" prev2url="images/360_0968_o_preview_2.jpg" prev5url="images/360_0968_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0968_o_preview_1.jpg" tile1url="images/360_0968_o_1.jpg" tile5url="images/360_0968_o_5.jpg" tile4url="images/360_0968_o_4.jpg" prev3url="images/360_0968_o_preview_3.jpg" tile3url="images/360_0968_o_3.jpg" prev0url="images/360_0968_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="330.5" tilt="-10.5" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Oficina_3" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-32.73" url="{node7}" title="" tilt="-2.99" description="" skinid="ht_node" id="RetornoInicio1" target="349/-2.5/96"/>
+      <hotspot pan="-23.29" url="{node10}" title="" tilt="-3.06" description="" skinid="ht_node" id="Oficina1" target="84.5/-7/82"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0969_o_0.jpg" prev4url="images/360_0969_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0969_o_2.jpg" prev2url="images/360_0969_o_preview_2.jpg" prev5url="images/360_0969_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0969_o_preview_1.jpg" tile1url="images/360_0969_o_1.jpg" tile5url="images/360_0969_o_5.jpg" tile4url="images/360_0969_o_4.jpg" prev3url="images/360_0969_o_preview_3.jpg" tile3url="images/360_0969_o_3.jpg" prev0url="images/360_0969_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="246" fovmode="0">
+      <start pan="-14.93" tilt="2.96" projection="4" fov="102.8"/>
+      <flyin pan="-14.93" tilt="2.96" projection="4" fov="102.8"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="INICIO_1" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-10.46" url="" title="Extruder" tilt="17.43" description="FUERA DE SERVICIO" skinid="ht_info" id="Extruder parte 2" target="_self"/>
+      <hotspot pan="-76.5" url="{node8}" title="" tilt="-2.48" description="" skinid="ht_node" id="AvanceDerecha1" target="-27.1/-2.0/87.0"/>
+      <hotspot pan="59.95" url="{node9}" title="" tilt="-0.84" description="" skinid="ht_node" id="AvanceIzquierda1" target="97.5/-17.3/107.0"/>
+      <hotspot pan="37.76" url="" title="Extruder" tilt="11.48" description="FUERA DE SERVICIO" skinid="ht_info" id="Extruder parte 1" target=""/>
+      <hotspot pan="174.97" url="{node10}" title="" tilt="-5.48" description="" skinid="ht_node" id="Oficina" target="-88.5/-15.0/82.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0972_o_0.jpg" prev4url="images/360_0972_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0972_o_2.jpg" prev2url="images/360_0972_o_preview_2.jpg" prev5url="images/360_0972_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0972_o_preview_1.jpg" tile1url="images/360_0972_o_1.jpg" tile5url="images/360_0972_o_5.jpg" tile4url="images/360_0972_o_4.jpg" prev3url="images/360_0972_o_preview_3.jpg" tile3url="images/360_0972_o_3.jpg" prev0url="images/360_0972_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="327" fovmode="0">
+      <start pan="346" tilt="0" projection="4" fov="87"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="S_derechaInicioR1" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-6.83" url="{node1}" title="" tilt="-0.38" description="" skinid="ht_node" id="AvanceDerecha2" target="-111.5/1.7/97.0"/>
+      <hotspot pan="13.95" url="" title="Extruder" tilt="13.56" description="FUERA DE SERVICIO" skinid="ht_info" id="Extruder parte 3" target=""/>
+      <hotspot pan="106.41" url="{node7}" title="" tilt="-1.35" description="" skinid="ht_node" id="RetornoInicio1" target="68.5/-4.5/96"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0973_o_0.jpg" prev4url="images/360_0973_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0973_o_2.jpg" prev2url="images/360_0973_o_preview_2.jpg" prev5url="images/360_0973_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0973_o_preview_1.jpg" tile1url="images/360_0973_o_1.jpg" tile5url="images/360_0973_o_5.jpg" tile4url="images/360_0973_o_4.jpg" prev3url="images/360_0973_o_preview_3.jpg" tile3url="images/360_0973_o_3.jpg" prev0url="images/360_0973_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="317" tilt="5.5" projection="4" fov="97"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="S_derechaInicioR2" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-41.21" url="" title="Extruder" tilt="26" description="FUERA DE SERVICIO" skinid="ht_info" id="Extruder parte 3" target=""/>
+      <hotspot pan="56.18" url="{node8}" title="S_derechaInicioR1" tilt="-4.77" description="" skinid="ht_node" id="RetornoIzquierda1" target="165.3/-7.3/87.0"/>
+      <hotspot pan="-85.62" url="{node2}" title="" tilt="4.55" description="" skinid="ht_node" id="AvanceDerecha3" target="-132.5/-2.5/102.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0974_o_0.jpg" prev4url="images/360_0974_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0974_o_2.jpg" prev2url="images/360_0974_o_preview_2.jpg" prev5url="images/360_0974_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0974_o_preview_1.jpg" tile1url="images/360_0974_o_1.jpg" tile5url="images/360_0974_o_5.jpg" tile4url="images/360_0974_o_4.jpg" prev3url="images/360_0974_o_preview_3.jpg" tile3url="images/360_0974_o_3.jpg" prev0url="images/360_0974_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-36.24" tilt="3.94" projection="4" fov="102.8"/>
+      <flyin pan="-36.24" tilt="3.94" projection="4" fov="102.8"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="S_derechaInicioR3" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="29.14" url="" title="Extruder" tilt="15.59" description="FUERA DE SERVICIO" skinid="ht_info" id="Extruder parte 3" target="_blank"/>
+      <hotspot pan="44.41" url="{node1}" title="" tilt="-5.75" description="" skinid="ht_node" id="RetornoIzquierda2" target="74.0/-4.3/97.0"/>
+      <hotspot pan="-103.45" url="{node3}" title="" tilt="0.58" description="" skinid="ht_node" id="AvanceDerecha4" target="-89.5/1.7/92.0"/>
+      <hotspot pan="-43.58" url="" title="Tolva Molienda" tilt="26.66" description="Nombre=Tolva Molienda&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=3 meses&lt;br /&gt;Limpieza=Cada 2 meses" skinid="ht_info" id="101A" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0975_o_0.jpg" prev4url="images/360_0975_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0975_o_2.jpg" prev2url="images/360_0975_o_preview_2.jpg" prev5url="images/360_0975_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0975_o_preview_1.jpg" tile1url="images/360_0975_o_1.jpg" tile5url="images/360_0975_o_5.jpg" tile4url="images/360_0975_o_4.jpg" prev3url="images/360_0975_o_preview_3.jpg" tile3url="images/360_0975_o_3.jpg" prev0url="images/360_0975_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="13.5" tilt="0.5" projection="4" fov="97"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="S_derechaInicioR4" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="16.76" url="" title="Tolva Molienda" tilt="22.46" description="Nombre=Tolva Molienda&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=3 meses&lt;br /&gt;Limpieza=Cada 2 meses" skinid="ht_info" id="101A" target=""/>
+      <hotspot pan="99.32" url="{node2}" title="" tilt="-4.48" description="" skinid="ht_node" id="RetornoIzquierda3" target="77.3/-3.2/102.0"/>
+      <hotspot pan="-37.48" url="{node4}" title="" tilt="-7.08" description="" skinid="ht_node" id="AvanceDerecha5" target="-66.5/2.6/113.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0976_o_0.jpg" prev4url="images/360_0976_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0976_o_2.jpg" prev2url="images/360_0976_o_preview_2.jpg" prev5url="images/360_0976_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0976_o_preview_1.jpg" tile1url="images/360_0976_o_1.jpg" tile5url="images/360_0976_o_5.jpg" tile4url="images/360_0976_o_4.jpg" prev3url="images/360_0976_o_preview_3.jpg" tile3url="images/360_0976_o_3.jpg" prev0url="images/360_0976_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="10" projection="4" fov="113"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="S_derechaInicioR5" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="2.23" url="" title="Molino 1" tilt="9.27" description="Nombre=Molino 1 y 2&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=3 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="102A" target=""/>
+      <hotspot pan="90.95" url="{node3}" title="" tilt="-4.96" description="" skinid="ht_node" id="ReternoIzquierda4" target="141.9/-3.6/92.0"/>
+      <hotspot pan="-130.89" url="{node5}" title="" tilt="-23.32" description="" skinid="ht_node" id="AvanceDerecha6" target="5.0/-6.0/98.0"/>
+      <hotspot pan="-12.18" url="" title="Molino 2" tilt="8.83" description="Nombre=Molino 1 y 2&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=3 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Molino 2" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0977_o_0.jpg" prev4url="images/360_0977_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0977_o_2.jpg" prev2url="images/360_0977_o_preview_2.jpg" prev5url="images/360_0977_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0977_o_preview_1.jpg" tile1url="images/360_0977_o_1.jpg" tile5url="images/360_0977_o_5.jpg" tile4url="images/360_0977_o_4.jpg" prev3url="images/360_0977_o_preview_3.jpg" tile3url="images/360_0977_o_3.jpg" prev0url="images/360_0977_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="21" tilt="1" projection="4" fov="98"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="S_derechaInicioR6" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="21.41" url="{node4}" title="" tilt="-14.29" description="" skinid="ht_node" id="RetornoIzquierda5" target="16.2/3.9/113.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0978_o_0.jpg" prev4url="images/360_0978_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0978_o_2.jpg" prev2url="images/360_0978_o_preview_2.jpg" prev5url="images/360_0978_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0978_o_preview_1.jpg" tile1url="images/360_0978_o_1.jpg" tile5url="images/360_0978_o_5.jpg" tile4url="images/360_0978_o_4.jpg" prev3url="images/360_0978_o_preview_3.jpg" tile3url="images/360_0978_o_3.jpg" prev0url="images/360_0978_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="107"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="S_izquierdaInicioR1" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="37.3" url="" title="Extruder" tilt="15.95" description="FUERA DE SERVICIO" skinid="ht_info" id="Extruder parte 1" target=""/>
+      <hotspot pan="4.39" url="" title="Extruder" tilt="11.67" description="FUERA DE SERVICIO" skinid="ht_info" id="Extruder parte 2" target=""/>
+      <hotspot pan="-80.18" url="{node7}" title="" tilt="-5.92" description="" skinid="ht_node" id="RetornoInicio1" target="273/0.5/96"/>
+      <hotspot pan="31.06" url="{node112}" title="" tilt="-12.22" description="" skinid="ht_node" id="AvanceIzquierda1" target="14.9/-3.9/107.0"/>
+      <hotspot pan="-153.29" url="{node10}" title="" tilt="-2" description="" skinid="ht_node" id="AvanceOficina" target="-73.6/-6.8/82.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node112" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0031_o_0.jpg" prev4url="images/360_0031_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0031_o_2.jpg" prev2url="images/360_0031_o_preview_2.jpg" prev5url="images/360_0031_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0031_o_preview_1.jpg" tile1url="images/360_0031_o_1.jpg" tile5url="images/360_0031_o_5.jpg" tile4url="images/360_0031_o_4.jpg" prev3url="images/360_0031_o_preview_3.jpg" tile3url="images/360_0031_o_3.jpg" prev0url="images/360_0031_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="S_izquierdaInicioR2" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:02 09:07:30" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-176.48" url="{node9}" title="" tilt="-1.1" description="" skinid="ht_node" id="RetornoDerecha2" target="-154.0/-0.3/107.0"/>
+      <hotspot pan="102.51" url="{node45}" title="" tilt="-3.91" description="" skinid="ht_node" id="Avance Izquierda3" target="164.5/-5.9/70.0"/>
+      <hotspot pan="25.92" url="" title="Extrude" tilt="22.93" description="FUERA DE SERVICIO" skinid="ht_info" id="Extruder parte 1" target=""/>
+      <hotspot pan="-24.25" url="" title="Extruder" tilt="3.46" description="FUERA DE SERVICIO" skinid="ht_info" id="Extruder parte 2" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node45" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0001_o_0.jpg" prev4url="images/360_0001_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0001_o_2.jpg" prev2url="images/360_0001_o_preview_2.jpg" prev5url="images/360_0001_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0001_o_preview_1.jpg" tile1url="images/360_0001_o_1.jpg" tile5url="images/360_0001_o_5.jpg" tile4url="images/360_0001_o_4.jpg" prev3url="images/360_0001_o_preview_3.jpg" tile3url="images/360_0001_o_3.jpg" prev0url="images/360_0001_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="S_izquierdaInicioR3" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="70.37" url="" title="Empacadora" tilt="-0.63" description="Empacadora" skinid="ht_info" id="Empacadora" target=""/>
+      <hotspot pan="-1.3" url="{node112}" title="" tilt="-6.44" description="" skinid="ht_node" id="RetornoDerecha3" target="-29.1/0.1/107.0"/>
+      <hotspot pan="160.13" url="{node13}" title="" tilt="-3.53" description="" skinid="ht_node" id="AvanceIzquierda4" target="84.4/4.3/113.0"/>
+      <hotspot pan="72.63" url="" title="Tolva Empacadora" tilt="38.37" description="Nombre=Empacadora&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=3 meses&lt;br /&gt;Limpieza=Cada 20 días" skinid="ht_info" id="Tolva Empacadora" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0979_o_0.jpg" prev4url="images/360_0979_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0979_o_2.jpg" prev2url="images/360_0979_o_preview_2.jpg" prev5url="images/360_0979_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0979_o_preview_1.jpg" tile1url="images/360_0979_o_1.jpg" tile5url="images/360_0979_o_5.jpg" tile4url="images/360_0979_o_4.jpg" prev3url="images/360_0979_o_preview_3.jpg" tile3url="images/360_0979_o_3.jpg" prev0url="images/360_0979_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="113"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="S_izquierdaInicioR4" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-14.65" url="" title="Empacadora" tilt="0.31" description="Nombre=Empacadora&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=3 meses&lt;br /&gt;Limpieza=Cada 20 días" skinid="ht_info" id="Empacadora" target=""/>
+      <hotspot pan="-75.17" url="{node45}" title="" tilt="-3.1" description="" skinid="ht_node" id="RetornoDerecha4" target="-10.7/2.7/107.0"/>
+      <hotspot pan="86.38" url="{node14}" title="" tilt="-7.7" description="" skinid="ht_node" id="AvanceIzquierda5" target="30.0/-11.7/70.0"/>
+      <hotspot pan="33.37" url="" title="Granel 1" tilt="37.64" description="Nombre=Tolvas graneleras (6)&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Granel 1" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_001_o_0.jpg" prev4url="images/360_001_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_001_o_2.jpg" prev2url="images/360_001_o_preview_2.jpg" prev5url="images/360_001_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_001_o_preview_1.jpg" tile1url="images/360_001_o_1.jpg" tile5url="images/360_001_o_5.jpg" tile4url="images/360_001_o_4.jpg" prev3url="images/360_001_o_preview_3.jpg" tile3url="images/360_001_o_3.jpg" prev0url="images/360_001_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="S_izquierdaInicioR5" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-136.7" url="{node13}" title="" tilt="1.83" description="" skinid="ht_node" id="RetornoDerecha5" target="-84.6/2.6/113.0"/>
+      <hotspot pan="-49.71" url="" title="Granel 1" tilt="40.6" description="Nombre=Tolvas graneleras (6)&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Granel 1" target=""/>
+      <hotspot pan="-4.23" url="{node25}" title="" tilt="-7.31" description="" skinid="ht_node" id="AvanceIzquierda6" target="112.1/-1.0/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node25" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0012_o_0.jpg" prev4url="images/360_0012_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0012_o_2.jpg" prev2url="images/360_0012_o_preview_2.jpg" prev5url="images/360_0012_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0012_o_preview_1.jpg" tile1url="images/360_0012_o_1.jpg" tile5url="images/360_0012_o_5.jpg" tile4url="images/360_0012_o_4.jpg" prev3url="images/360_0012_o_preview_3.jpg" tile3url="images/360_0012_o_3.jpg" prev0url="images/360_0012_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="S_izquierdaInicioR6" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="22.9" url="" title="Granel 2" tilt="48.32" description="Nombre=Tolvas graneleras (6)&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Granel 2" target=""/>
+      <hotspot pan="103.13" url="" title="Granel 3" tilt="60.96" description="Nombre=Tolvas graneleras (6)&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Granel 3" target=""/>
+      <hotspot pan="-43.56" url="{node14}" title="" tilt="-10.6" description="" skinid="ht_node" id="RetornoDerecha6" target="-176.5/-2.5/70.0"/>
+      <hotspot pan="73.92" url="{node27}" title="" tilt="-11.12" description="" skinid="ht_node" id="AvanceDerecha7" target="110.4/-0.9/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node27" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0014_o_0.jpg" prev4url="images/360_0014_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0014_o_2.jpg" prev2url="images/360_0014_o_preview_2.jpg" prev5url="images/360_0014_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0014_o_preview_1.jpg" tile1url="images/360_0014_o_1.jpg" tile5url="images/360_0014_o_5.jpg" tile4url="images/360_0014_o_4.jpg" prev3url="images/360_0014_o_preview_3.jpg" tile3url="images/360_0014_o_3.jpg" prev0url="images/360_0014_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="S_izquierdaInicioR7" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="38.35" url="" title="Granel 1" tilt="28.51" description="Nombre=Tolvas graneleras (6)&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Granel 1" target=""/>
+      <hotspot pan="32.33" url="" title="Granel 2" tilt="50.42" description="Nombre=Tolvas graneleras (6)&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Granel 2" target=""/>
+      <hotspot pan="-101.64" url="" title="Granel 3" tilt="73.26" description="Nombre=Tolvas graneleras (6)&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Granel 3" target=""/>
+      <hotspot pan="-126.9" url="" title="Granel 4" tilt="41.56" description="Nombre=Tolvas graneleras (6)&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Granel 4" target=""/>
+      <hotspot pan="41.22" url="{node28}" title="" tilt="-11.78" description="" skinid="ht_node" id="AvanceDerecha8" target="58.4/-7.8/70.0"/>
+      <hotspot pan="-59.57" url="{node25}" title="" tilt="-8.11" description="" skinid="ht_node" id="RetornoDerecha7" target="-110.0/0.4/70.0"/>
+      <hotspot pan="-131.33" url="" title="Granel 5" tilt="27.16" description="Nombre=Tolvas graneleras (6)&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Granel 5" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node28" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0015_o_0.jpg" prev4url="images/360_0015_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0015_o_2.jpg" prev2url="images/360_0015_o_preview_2.jpg" prev5url="images/360_0015_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0015_o_preview_1.jpg" tile1url="images/360_0015_o_1.jpg" tile5url="images/360_0015_o_5.jpg" tile4url="images/360_0015_o_4.jpg" prev3url="images/360_0015_o_preview_3.jpg" tile3url="images/360_0015_o_3.jpg" prev0url="images/360_0015_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="INICIO_2" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-66.59" url="{node27}" title="" tilt="-2.77" description="" skinid="ht_node" id="RetornoDerecha8" target="-79.4/-3.7/70.0"/>
+      <hotspot pan="140.89" url="{node30}" title="" tilt="0.7" description="" skinid="ht_node" id="IzquierdaArriba1" target="114.4/-3.3/70.0"/>
+      <hotspot pan="56.43" url="" title="Granel 1" tilt="29.85" description="Granel 1" skinid="ht_info" id="Granel 1" target=""/>
+      <hotspot pan="28.14" url="" title="Granel 2" tilt="63.47" description="Granel 2" skinid="ht_info" id="Granel 2" target=""/>
+      <hotspot pan="-89.09" url="" title="Granel 3" tilt="56.54" description="Granel 3" skinid="ht_info" id="Granel 3" target=""/>
+      <hotspot pan="61.02" url="{node86}" title="" tilt="-7.72" description="" skinid="ht_node" id="GranelAdelante1" target="-4.2/-1.3/70.0"/>
+      <hotspot pan="-109.57" url="{node88}" title="" tilt="3.7" description="" skinid="ht_node" id="GranelAtras2" target="169.5/3.4/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node30" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0017_o_0.jpg" prev4url="images/360_0017_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0017_o_2.jpg" prev2url="images/360_0017_o_preview_2.jpg" prev5url="images/360_0017_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0017_o_preview_1.jpg" tile1url="images/360_0017_o_1.jpg" tile5url="images/360_0017_o_5.jpg" tile4url="images/360_0017_o_4.jpg" prev3url="images/360_0017_o_preview_3.jpg" tile3url="images/360_0017_o_3.jpg" prev0url="images/360_0017_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="IzquierdaArriba1" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-64.79" url="" title="Granel 2" tilt="50.08" description="Nombre=Tolvas graneleras (6)&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Granel 2" target=""/>
+      <hotspot pan="-69.53" url="{node28}" title="" tilt="-2.55" description="" skinid="ht_node" id="DerechaAbajo1" target="-15.3/-4.0/70.0"/>
+      <hotspot pan="45.29" url="{node33}" title="" tilt="-7.37" description="" skinid="ht_node" id="IzquierdaArriba2" target="95.7/-9.2/70.0"/>
+      <hotspot pan="149.46" url="{node56}" title="" tilt="-4.49" description="" skinid="ht_node" id="IzquierdaCuarto1" target="-24.1/-8.5/70.0"/>
+      <hotspot pan="90.77" url="{node75}" title="" tilt="-9.14" description="" skinid="ht_node" id="Izquierda1" target="58.1/-3.3/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node33" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0020_o_0.jpg" prev4url="images/360_0020_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0020_o_2.jpg" prev2url="images/360_0020_o_preview_2.jpg" prev5url="images/360_0020_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0020_o_preview_1.jpg" tile1url="images/360_0020_o_1.jpg" tile5url="images/360_0020_o_5.jpg" tile4url="images/360_0020_o_4.jpg" prev3url="images/360_0020_o_preview_3.jpg" tile3url="images/360_0020_o_3.jpg" prev0url="images/360_0020_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="IzquierdaArriba2" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-72.39" url="{node30}" title="" tilt="-2.69" description="" skinid="ht_node" id="DerechaAbajo2" target="-154.9/-2.6/70.0"/>
+      <hotspot pan="68.38" url="" title="Quebrantadora" tilt="-10.27" description="Nombre=Qubrentadora&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=3 meses&lt;br /&gt;Limpieza=Cada 1 año" skinid="ht_info" id="Quebrantadora" target=""/>
+      <hotspot pan="73.74" url="" title="Enfriadora" tilt="10.56" description="Nombre=Enfriadora&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=3 meses&lt;br /&gt;Limpieza=Cada 1 año" skinid="ht_info" id="Enfriadora" target=""/>
+      <hotspot pan="-177" url="{node35}" title="" tilt="-5.85" description="" skinid="ht_node" id="IzquierdaArriba3" target="89.3/1.2/70.0"/>
+      <hotspot pan="-129.07" url="{node75}" title="" tilt="-6.66" description="" skinid="ht_node" id="IzquierdaAbajo1" target="127.4/-13.9/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node35" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0022_o_0.jpg" prev4url="images/360_0022_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0022_o_2.jpg" prev2url="images/360_0022_o_preview_2.jpg" prev5url="images/360_0022_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0022_o_preview_1.jpg" tile1url="images/360_0022_o_1.jpg" tile5url="images/360_0022_o_5.jpg" tile4url="images/360_0022_o_4.jpg" prev3url="images/360_0022_o_preview_3.jpg" tile3url="images/360_0022_o_3.jpg" prev0url="images/360_0022_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="IzquierdaArriba3" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-87.68" url="{node33}" title="" tilt="-20.03" description="" skinid="ht_node" id="DerechaAbajo3" target="22.2/-19.3/70.0"/>
+      <hotspot pan="8.94" url="" title="Tolva de Alivio" tilt="-16.15" description="Nombre=Tolva de alivio&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=3 meses&lt;br /&gt;Limpieza=Cada 1 año" skinid="ht_info" id="Tolva de Alivio" target=""/>
+      <hotspot pan="98.55" url="{node55}" title="" tilt="-3.78" description="" skinid="ht_node" id="IzquierdaArriba4" target="-141.3/-1.7/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node55" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0013_o_0.jpg" prev4url="images/360_0013_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0013_o_2.jpg" prev2url="images/360_0013_o_preview_2.jpg" prev5url="images/360_0013_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0013_o_preview_1.jpg" tile1url="images/360_0013_o_1.jpg" tile5url="images/360_0013_o_5.jpg" tile4url="images/360_0013_o_4.jpg" prev3url="images/360_0013_o_preview_3.jpg" tile3url="images/360_0013_o_3.jpg" prev0url="images/360_0013_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="IzquierdaArriba4" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="48.82" url="{node35}" title="" tilt="-33.77" description="" skinid="ht_node" id="DerechaAbajo4" target="-84.9/-16.4/70.0"/>
+      <hotspot pan="125.66" url="" title="Tolva de Alivio" tilt="-18.77" description="Nombre=Tolva de alivio&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=3 meses&lt;br /&gt;Limpieza=Cada 1 año" skinid="ht_info" id="Tolva de Alivio" target=""/>
+      <hotspot pan="-143.59" url="{node37}" title="" tilt="13.48" description="" skinid="ht_node" id="IzquierdaArriba5" target="-165.4/-0.6/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node37" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0027_o_0.jpg" prev4url="images/360_0027_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0027_o_2.jpg" prev2url="images/360_0027_o_preview_2.jpg" prev5url="images/360_0027_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0027_o_preview_1.jpg" tile1url="images/360_0027_o_1.jpg" tile5url="images/360_0027_o_5.jpg" tile4url="images/360_0027_o_4.jpg" prev3url="images/360_0027_o_preview_3.jpg" tile3url="images/360_0027_o_3.jpg" prev0url="images/360_0027_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="IzquierdaArriba5" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="8.25" url="{node55}" title="" tilt="-34.71" description="" skinid="ht_node" id="DerechaAbajo5" target="45.3/-20.3/70.0"/>
+      <hotspot pan="25" url="{node38}" title="" tilt="2.72" description="" skinid="ht_node" id="IzquierdaArriba6" target="126.8/-11.6/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node38" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0031_1_o_0.jpg" prev4url="images/360_0031_1_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0031_1_o_2.jpg" prev2url="images/360_0031_1_o_preview_2.jpg" prev5url="images/360_0031_1_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0031_1_o_preview_1.jpg" tile1url="images/360_0031_1_o_1.jpg" tile5url="images/360_0031_1_o_5.jpg" tile4url="images/360_0031_1_o_4.jpg" prev3url="images/360_0031_1_o_preview_3.jpg" tile3url="images/360_0031_1_o_3.jpg" prev0url="images/360_0031_1_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="IzquierdaArriba6" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-73.92" url="{node37}" title="" tilt="-34.19" description="" skinid="ht_node" id="DerechaAbajo6" target="-160.0/-4.4/70.0"/>
+      <hotspot pan="-140.4" url="" title="Tolva Bascula" tilt="7.29" description="Nombre=Peletizadora&lt;br /&gt;Temp Max=70°C&lt;br /&gt;Temp Min=90°&lt;br /&gt;Presion=110 PSI&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=2 años&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Tolva Bascula" target=""/>
+      <hotspot pan="-129.21" url="" title="Mezcladora Salida" tilt="-23.68" description="Nombre=Mezcladora&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=3 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Mezcladora Salida" target=""/>
+      <hotspot pan="125.59" url="{node39}" title="" tilt="-8.44" description="" skinid="ht_node" id="IzquierdaArriba7" target="85.9/-11.7/95.0"/>
+      <hotspot pan="58.01" url="" title="Granel 2" tilt="-3.18" description="Nombre=Tolvas graneleras (6)&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Granel 2" target=""/>
+      <hotspot pan="45.42" url="" title="Granel 3" tilt="-2.89" description="Nombre=Tolvas graneleras (6)&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Granel 3" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node39" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0034_o_0.jpg" prev4url="images/360_0034_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0034_o_2.jpg" prev2url="images/360_0034_o_preview_2.jpg" prev5url="images/360_0034_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0034_o_preview_1.jpg" tile1url="images/360_0034_o_1.jpg" tile5url="images/360_0034_o_5.jpg" tile4url="images/360_0034_o_4.jpg" prev3url="images/360_0034_o_preview_3.jpg" tile3url="images/360_0034_o_3.jpg" prev0url="images/360_0034_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-158.07" tilt="4" projection="4" fov="102.8"/>
+      <flyin pan="-158.07" tilt="4" projection="4" fov="102.8"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="IzquierdaArriba7" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-77.8" url="{node38}" title="" tilt="-8.1" description="" skinid="ht_node" id="DerechaAbajo7" target="-81.3/-10.8/70.0"/>
+      <hotspot pan="167.06" url="" title="Peletizadora" tilt="9.42" description="Nombre=Peletizadora&lt;br /&gt;Temp Max=70°C&lt;br /&gt;Temp Min=90°&lt;br /&gt;Presion=110 PSI&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=2 años&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Peletizadora" target=""/>
+      <hotspot pan="-124.57" url="" title="Tolva Bascula" tilt="7.62" description="Nombre=Tolva Bascula&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=SIN DATO&lt;br /&gt;Limpieza=SIN DATO" skinid="ht_info" id="Tolva Bascula" target=""/>
+      <hotspot pan="-120.48" url="" title="Mezcladora Salida" tilt="-15.64" description="Nombre=Mezcladora&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=3 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Mezcladora Salida" target=""/>
+      <hotspot pan="105.09" url="" title="Tolva Empacadora" tilt="2.47" description="Nombre=Empacadora&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=3 meses&lt;br /&gt;Limpieza=Cada 20 días" skinid="ht_info" id="Tolva Empacadora" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node75" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0001_1_o_0.jpg" prev4url="images/360_0001_1_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0001_1_o_2.jpg" prev2url="images/360_0001_1_o_preview_2.jpg" prev5url="images/360_0001_1_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0001_1_o_preview_1.jpg" tile1url="images/360_0001_1_o_1.jpg" tile5url="images/360_0001_1_o_5.jpg" tile4url="images/360_0001_1_o_4.jpg" prev3url="images/360_0001_1_o_preview_3.jpg" tile3url="images/360_0001_1_o_3.jpg" prev0url="images/360_0001_1_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="IzquierdaAbajo1" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-148.2" url="{node30}" title="" tilt="-10.24" description="" skinid="ht_node" id="Derecha1" target="-107.1/-1.6/70.0"/>
+      <hotspot pan="71.86" url="{node76}" title="" tilt="4.81" description="" skinid="ht_node" id="Izquierda2" target="62.1/-0.8/70.0"/>
+      <hotspot pan="-58.89" url="{node33}" title="" tilt="-13.79" description="" skinid="ht_node" id="Izquierda0" target="55.7/-7.7/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node76" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0002_o_0.jpg" prev4url="images/360_0002_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0002_o_2.jpg" prev2url="images/360_0002_o_preview_2.jpg" prev5url="images/360_0002_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0002_o_preview_1.jpg" tile1url="images/360_0002_o_1.jpg" tile5url="images/360_0002_o_5.jpg" tile4url="images/360_0002_o_4.jpg" prev3url="images/360_0002_o_preview_3.jpg" tile3url="images/360_0002_o_3.jpg" prev0url="images/360_0002_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="IzquierdaAbajo2" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="54.03" url="{node77}" title="" tilt="-4.97" description="" skinid="ht_node" id="Izquierda3" target="60.9/-2.5/70.0"/>
+      <hotspot pan="-111.22" url="{node75}" title="" tilt="-12.08" description="" skinid="ht_node" id="Derecha2" target="-114.9/-12.5/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node77" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0003_o_0.jpg" prev4url="images/360_0003_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0003_o_2.jpg" prev2url="images/360_0003_o_preview_2.jpg" prev5url="images/360_0003_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0003_o_preview_1.jpg" tile1url="images/360_0003_o_1.jpg" tile5url="images/360_0003_o_5.jpg" tile4url="images/360_0003_o_4.jpg" prev3url="images/360_0003_o_preview_3.jpg" tile3url="images/360_0003_o_3.jpg" prev0url="images/360_0003_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="IzquierdaAbajo3" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="10.41" url="{node78}" title="" tilt="-18.69" description="" skinid="ht_node" id="Izquierda4" target="79.7/-5.3/70.0"/>
+      <hotspot pan="-103.18" url="{node76}" title="" tilt="-7.73" description="" skinid="ht_node" id="Derecha3" target="-109.5/-9.7/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node78" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0004_o_0.jpg" prev4url="images/360_0004_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0004_o_2.jpg" prev2url="images/360_0004_o_preview_2.jpg" prev5url="images/360_0004_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0004_o_preview_1.jpg" tile1url="images/360_0004_o_1.jpg" tile5url="images/360_0004_o_5.jpg" tile4url="images/360_0004_o_4.jpg" prev3url="images/360_0004_o_preview_3.jpg" tile3url="images/360_0004_o_3.jpg" prev0url="images/360_0004_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="IzquierdaAbajo4" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="75.96" url="{node79}" title="" tilt="-8.28" description="" skinid="ht_node" id="IZquierda5" target="78.9/-6.4/70.0"/>
+      <hotspot pan="-62.8" url="{node77}" title="" tilt="-13.37" description="" skinid="ht_node" id="Derecha4" target="-131.3/-5.2/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node79" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0005_o_0.jpg" prev4url="images/360_0005_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0005_o_2.jpg" prev2url="images/360_0005_o_preview_2.jpg" prev5url="images/360_0005_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0005_o_preview_1.jpg" tile1url="images/360_0005_o_1.jpg" tile5url="images/360_0005_o_5.jpg" tile4url="images/360_0005_o_4.jpg" prev3url="images/360_0005_o_preview_3.jpg" tile3url="images/360_0005_o_3.jpg" prev0url="images/360_0005_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="IzquierdaAbajo5" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="79.82" url="{node80}" title="" tilt="-8.55" description="" skinid="ht_node" id="Izquierda6" target="92.2/-6.4/70.0"/>
+      <hotspot pan="-97.99" url="{node78}" title="" tilt="-5.61" description="" skinid="ht_node" id="Derecha5" target="-99.9/-5.9/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node80" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0006_o_0.jpg" prev4url="images/360_0006_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0006_o_2.jpg" prev2url="images/360_0006_o_preview_2.jpg" prev5url="images/360_0006_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0006_o_preview_1.jpg" tile1url="images/360_0006_o_1.jpg" tile5url="images/360_0006_o_5.jpg" tile4url="images/360_0006_o_4.jpg" prev3url="images/360_0006_o_preview_3.jpg" tile3url="images/360_0006_o_3.jpg" prev0url="images/360_0006_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="IzquierdaAbajo6" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="90.49" url="{node81}" title="" tilt="-4.39" description="" skinid="ht_node" id="Izquierda7" target="102.0/-5.3/70.0"/>
+      <hotspot pan="61.49" url="" title="Mezcladora Entrada" tilt="-21.85" description="Nombre=Mezcladora&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=3 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Mezcladora Entrada" target=""/>
+      <hotspot pan="-81.32" url="{node79}" title="" tilt="-7.52" description="" skinid="ht_node" id="Derecha6" target="-100.2/-5.0/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node81" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0007_o_0.jpg" prev4url="images/360_0007_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0007_o_2.jpg" prev2url="images/360_0007_o_preview_2.jpg" prev5url="images/360_0007_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0007_o_preview_1.jpg" tile1url="images/360_0007_o_1.jpg" tile5url="images/360_0007_o_5.jpg" tile4url="images/360_0007_o_4.jpg" prev3url="images/360_0007_o_preview_3.jpg" tile3url="images/360_0007_o_3.jpg" prev0url="images/360_0007_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="IzquierdaAbajo7" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="59.29" url="" title="Mezcladora Entrada" tilt="-31.77" description="Nombre=Mezcladora&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=3 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Mezcladora Entrada" target=""/>
+      <hotspot pan="-71.07" url="{node80}" title="" tilt="-8.8" description="" skinid="ht_node" id="Derecha7" target="-80.9/-4.9/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node56" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0019_o_0.jpg" prev4url="images/360_0019_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0019_o_2.jpg" prev2url="images/360_0019_o_preview_2.jpg" prev5url="images/360_0019_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0019_o_preview_1.jpg" tile1url="images/360_0019_o_1.jpg" tile5url="images/360_0019_o_5.jpg" tile4url="images/360_0019_o_4.jpg" prev3url="images/360_0019_o_preview_3.jpg" tile3url="images/360_0019_o_3.jpg" prev0url="images/360_0019_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="CuartoIzquierda1" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="150.05" url="{node30}" title="" tilt="4.82" description="" skinid="ht_node" id="DerechaCuarto1" target="-51.8/0.8/70.0"/>
+      <hotspot pan="-14.1" url="{node46}" title="" tilt="-5.78" description="" skinid="ht_node" id="IzquierdaCuarto2" target="35.5/-3.0/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node46" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0021_o_0.jpg" prev4url="images/360_0021_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0021_o_2.jpg" prev2url="images/360_0021_o_preview_2.jpg" prev5url="images/360_0021_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0021_o_preview_1.jpg" tile1url="images/360_0021_o_1.jpg" tile5url="images/360_0021_o_5.jpg" tile4url="images/360_0021_o_4.jpg" prev3url="images/360_0021_o_preview_3.jpg" tile3url="images/360_0021_o_3.jpg" prev0url="images/360_0021_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="CuartoIzquierda2" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-128.15" url="{node56}" title="" tilt="-10.31" description="" skinid="ht_node" id="DerechaCuarto2" target="172.2/-0.5/70.0"/>
+      <hotspot pan="12.09" url="{node47}" title="" tilt="-2.04" description="" skinid="ht_node" id="IzquierdaCuarto3" target="21.3/0.3/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node47" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0023_o_0.jpg" prev4url="images/360_0023_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0023_o_2.jpg" prev2url="images/360_0023_o_preview_2.jpg" prev5url="images/360_0023_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0023_o_preview_1.jpg" tile1url="images/360_0023_o_1.jpg" tile5url="images/360_0023_o_5.jpg" tile4url="images/360_0023_o_4.jpg" prev3url="images/360_0023_o_preview_3.jpg" tile3url="images/360_0023_o_3.jpg" prev0url="images/360_0023_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="CuartoIzquierda3" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="84.14" url="{node49}" title="" tilt="-2.52" description="" skinid="ht_node" id="IzquierdaCuarto4" target="-25.5/-11.4/70.0"/>
+      <hotspot pan="-160.85" url="{node46}" title="" tilt="-6.35" description="" skinid="ht_node" id="DerechaCuarto3" target="-175.8/-6.5/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node49" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0027_1_o_0.jpg" prev4url="images/360_0027_1_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0027_1_o_2.jpg" prev2url="images/360_0027_1_o_preview_2.jpg" prev5url="images/360_0027_1_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0027_1_o_preview_1.jpg" tile1url="images/360_0027_1_o_1.jpg" tile5url="images/360_0027_1_o_5.jpg" tile4url="images/360_0027_1_o_4.jpg" prev3url="images/360_0027_1_o_preview_3.jpg" tile3url="images/360_0027_1_o_3.jpg" prev0url="images/360_0027_1_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="CuartoIzquierda4" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-173.73" url="{node47}" title="" tilt="-1.39" description="" skinid="ht_node" id="DerechaCuarto4" target="-80.3/-14.2/70.0"/>
+      <hotspot pan="-1.44" url="" title="Micro-Mezcladora" tilt="-10" description="Nombre=Micro-mezclador&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Micro-Mezcladora" target=""/>
+      <hotspot pan="30.76" url="{node50}" title="" tilt="-9.8" description="" skinid="ht_node" id="IzquierdaCuarto5" target="18.2/-13.3/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node50" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0030_o_0.jpg" prev4url="images/360_0030_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0030_o_2.jpg" prev2url="images/360_0030_o_preview_2.jpg" prev5url="images/360_0030_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0030_o_preview_1.jpg" tile1url="images/360_0030_o_1.jpg" tile5url="images/360_0030_o_5.jpg" tile4url="images/360_0030_o_4.jpg" prev3url="images/360_0030_o_preview_3.jpg" tile3url="images/360_0030_o_3.jpg" prev0url="images/360_0030_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="CuartoIzquierda5" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-33.83" url="" title="Micro-Mezcladora" tilt="-12.3" description="Nombre=Micro-mezclador&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Micro-Mezcladora" target=""/>
+      <hotspot pan="-156.01" url="{node49}" title="" tilt="-4.27" description="" skinid="ht_node" id="DerechaCuarto5" target="-156.6/-2.8/70.0"/>
+      <hotspot pan="64.16" url="{node59}" title="" tilt="-4.93" description="" skinid="ht_node" id="IzquierdaCuarto6" target="-2.9/-9.7/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node59" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0031_2_o_0.jpg" prev4url="images/360_0031_2_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0031_2_o_2.jpg" prev2url="images/360_0031_2_o_preview_2.jpg" prev5url="images/360_0031_2_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0031_2_o_preview_1.jpg" tile1url="images/360_0031_2_o_1.jpg" tile5url="images/360_0031_2_o_5.jpg" tile4url="images/360_0031_2_o_4.jpg" prev3url="images/360_0031_2_o_preview_3.jpg" tile3url="images/360_0031_2_o_3.jpg" prev0url="images/360_0031_2_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="CuartoIzquierda6" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-150.44" url="" title="Micro-Mezcladora" tilt="-0.75" description="Nombre=Micro-mezclador&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Micro-Mezcladora" target=""/>
+      <hotspot pan="-169.4" url="{node50}" title="" tilt="0.43" description="" skinid="ht_node" id="DerechaCuarto6" target="-101.2/-8.0/70.0"/>
+      <hotspot pan="53.21" url="{node61}" title="" tilt="-3.94" description="" skinid="ht_node" id="IzquierdaCuarto7" target="41.1/0.2/70.0"/>
+      <hotspot pan="83.5" url="" title="Granel 4" tilt="25.71" description="Nombre=Tolvas graneleras (6)&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Granel 4" target=""/>
+      <hotspot pan="56.05" url="" title="Granel 5" tilt="27.59" description="Nombre=Tolvas graneleras (6)&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Granel 5" target=""/>
+      <hotspot pan="25.54" url="" title="Granel 6" tilt="24.39" description="Nombre=Tolvas graneleras (6)&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Granel 6" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node61" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0037_o_0.jpg" prev4url="images/360_0037_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0037_o_2.jpg" prev2url="images/360_0037_o_preview_2.jpg" prev5url="images/360_0037_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0037_o_preview_1.jpg" tile1url="images/360_0037_o_1.jpg" tile5url="images/360_0037_o_5.jpg" tile4url="images/360_0037_o_4.jpg" prev3url="images/360_0037_o_preview_3.jpg" tile3url="images/360_0037_o_3.jpg" prev0url="images/360_0037_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="CuartoIzquierda7" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:43:48" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-143.17" url="{node59}" title="" tilt="-8.49" description="" skinid="ht_node" id="DerechaCuarto7" target="-132.5/-0.6/70.0"/>
+      <hotspot pan="54.09" url="" title="Granel 5" tilt="65.28" description="Nombre=Tolvas graneleras (6)&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Granel 5" target=""/>
+      <hotspot pan="-17.5" url="" title="Granel 6" tilt="52.99" description="Nombre=Tolvas graneleras (6)&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=SIN DATO&lt;br /&gt;Mantenimiento=1 mes&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Granel 6" target=""/>
+      <hotspot pan="76.73" url="{node89}" title="" tilt="-1.87" description="" skinid="ht_node" id="Granel0" target="-51.0/-6.0/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node86" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0981_o_0.jpg" prev4url="images/360_0981_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0981_o_2.jpg" prev2url="images/360_0981_o_preview_2.jpg" prev5url="images/360_0981_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0981_o_preview_1.jpg" tile1url="images/360_0981_o_1.jpg" tile5url="images/360_0981_o_5.jpg" tile4url="images/360_0981_o_4.jpg" prev3url="images/360_0981_o_preview_3.jpg" tile3url="images/360_0981_o_3.jpg" prev0url="images/360_0981_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Graneles1" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:53:17" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-5.81" url="" title="Granel 1" tilt="70.81" description="Granel 1" skinid="ht_info" id="Granel 1" target=""/>
+      <hotspot pan="-176.62" url="" title="Granel 3" tilt="31.65" description="Granel 3" skinid="ht_info" id="Granel 3" target=""/>
+      <hotspot pan="180.43" url="{node28}" title="" tilt="-2.4" description="" skinid="ht_node" id="GranelAtras1" target="-109.0/5.8/70.0"/>
+      <hotspot pan="69.86" url="{node33}" title="" tilt="-10.81" description="" skinid="ht_node" id="arriba" target="-178.9/2.1/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node88" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0983_o_0.jpg" prev4url="images/360_0983_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0983_o_2.jpg" prev2url="images/360_0983_o_preview_2.jpg" prev5url="images/360_0983_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0983_o_preview_1.jpg" tile1url="images/360_0983_o_1.jpg" tile5url="images/360_0983_o_5.jpg" tile4url="images/360_0983_o_4.jpg" prev3url="images/360_0983_o_preview_3.jpg" tile3url="images/360_0983_o_3.jpg" prev0url="images/360_0983_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Graneles2" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:53:52" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-9.73" url="" title="Granel 2" tilt="24.63" description="Granel 2" skinid="ht_info" id="Granel 2" target=""/>
+      <hotspot pan="-8.3" url="" title="Granel 3" tilt="44.32" description="Granel 3" skinid="ht_info" id="Granel 3" target=""/>
+      <hotspot pan="165.82" url="" title="Granel 4" tilt="81.29" description="Granel 4" skinid="ht_info" id="Granel 4" target=""/>
+      <hotspot pan="170.27" url="" title="Granel 5" tilt="42.05" description="Granel 5" skinid="ht_info" id="Granel 5" target=""/>
+      <hotspot pan="169.1" url="{node89}" title="" tilt="4.69" description="" skinid="ht_node" id="GranelAtras3" target="167.3/4.0/70.0"/>
+      <hotspot pan="-9.9" url="{node28}" title="" tilt="-7.02" description="" skinid="ht_node" id="GranelAdelante2" target="62.5/-9.3/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node89" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0984_o_0.jpg" prev4url="images/360_0984_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0984_o_2.jpg" prev2url="images/360_0984_o_preview_2.jpg" prev5url="images/360_0984_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0984_o_preview_1.jpg" tile1url="images/360_0984_o_1.jpg" tile5url="images/360_0984_o_5.jpg" tile4url="images/360_0984_o_4.jpg" prev3url="images/360_0984_o_preview_3.jpg" tile3url="images/360_0984_o_3.jpg" prev0url="images/360_0984_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Graneles3" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:54:06" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-10.73" url="" title="Granel 3" tilt="21.85" description="Granel 3" skinid="ht_info" id="Granel 3" target=""/>
+      <hotspot pan="-9.38" url="" title="Granel 4" tilt="39.32" description="Granel 4" skinid="ht_info" id="Granel 4" target=""/>
+      <hotspot pan="138.97" url="" title="Granel 5" tilt="86.14" description="Granel 5" skinid="ht_info" id="Granel 5" target=""/>
+      <hotspot pan="164.78" url="" title="Granel 6" tilt="46.64" description="Granel 6" skinid="ht_info" id="Granel 6" target=""/>
+      <hotspot pan="165.44" url="{node84}" title="" tilt="4.12" description="" skinid="ht_node" id="GranelAtras4" target="167.6/0.2/70.0"/>
+      <hotspot pan="-11.61" url="{node88}" title="" tilt="-6.01" description="" skinid="ht_node" id="GranelAdelante3" target="-9.3/-6.0/70.0"/>
+      <hotspot pan="85.14" url="{node61}" title="" tilt="-3.94" description="" skinid="ht_node" id="Cuarto0" target="-140.8/-9.0/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node84" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0985_o_0.jpg" prev4url="images/360_0985_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0985_o_2.jpg" prev2url="images/360_0985_o_preview_2.jpg" prev5url="images/360_0985_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0985_o_preview_1.jpg" tile1url="images/360_0985_o_1.jpg" tile5url="images/360_0985_o_5.jpg" tile4url="images/360_0985_o_4.jpg" prev3url="images/360_0985_o_preview_3.jpg" tile3url="images/360_0985_o_3.jpg" prev0url="images/360_0985_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Graneles4" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:54:19" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="14.11" url="" title="Granel 6" tilt="87.47" description="Granel 6" skinid="ht_info" id="Granel 6" target=""/>
+      <hotspot pan="-7.82" url="" title="Granel 5" tilt="41.86" description="Granel 5" skinid="ht_info" id="Granel 5" target=""/>
+      <hotspot pan="166.62" url="{node85}" title="" tilt="2.16" description="" skinid="ht_node" id="GranelAtras5" target="171.4/-1.1/70.0"/>
+      <hotspot pan="-10.36" url="{node89}" title="" tilt="-2.14" description="" skinid="ht_node" id="GranelAdelante4" target="-8.9/-3.3/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node85" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0986_o_0.jpg" prev4url="images/360_0986_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0986_o_2.jpg" prev2url="images/360_0986_o_preview_2.jpg" prev5url="images/360_0986_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0986_o_preview_1.jpg" tile1url="images/360_0986_o_1.jpg" tile5url="images/360_0986_o_5.jpg" tile4url="images/360_0986_o_4.jpg" prev3url="images/360_0986_o_preview_3.jpg" tile3url="images/360_0986_o_3.jpg" prev0url="images/360_0986_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Graneles5" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 15:54:34" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-8.04" url="" title="Granel 6" tilt="53.67" description="Granel 6" skinid="ht_info" id="Granel 6" target=""/>
+      <hotspot pan="139.99" url="{node71}" title="" tilt="-2.42" description="" skinid="ht_node" id="Exterior0" target="117.6/-7.6/70.0"/>
+      <hotspot pan="-9.44" url="{node84}" title="" tilt="-1.9" description="" skinid="ht_node" id="GranelAdelante5" target="-9.3/-3.4/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node71" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0001_2_o_0.jpg" prev4url="images/360_0001_2_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0001_2_o_2.jpg" prev2url="images/360_0001_2_o_preview_2.jpg" prev5url="images/360_0001_2_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0001_2_o_preview_1.jpg" tile1url="images/360_0001_2_o_1.jpg" tile5url="images/360_0001_2_o_5.jpg" tile4url="images/360_0001_2_o_4.jpg" prev3url="images/360_0001_2_o_preview_3.jpg" tile3url="images/360_0001_2_o_3.jpg" prev0url="images/360_0001_2_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-83.06" tilt="-3.45" projection="4" fov="102.8"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Exterior1" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:02 09:37:00" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-166.17" url="{node105}" title="" tilt="1.44" description="" skinid="ht_node" id="EntradaRetorno2" target="-125.5/4.4/95.0"/>
+      <hotspot pan="28.79" url="{node113}" title="" tilt="-3.61" description="" skinid="ht_node" id="Exterior1" target="46.9/-5.0/70.0"/>
+      <hotspot pan="-110.1" url="{node85}" title="" tilt="-1.87" description="" skinid="ht_node" id="Regreso0" target="-76.1/-5.1/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node113" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0007_1_o_0.jpg" prev4url="images/360_0007_1_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0007_1_o_2.jpg" prev2url="images/360_0007_1_o_preview_2.jpg" prev5url="images/360_0007_1_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0007_1_o_preview_1.jpg" tile1url="images/360_0007_1_o_1.jpg" tile5url="images/360_0007_1_o_5.jpg" tile4url="images/360_0007_1_o_4.jpg" prev3url="images/360_0007_1_o_preview_3.jpg" tile3url="images/360_0007_1_o_3.jpg" prev0url="images/360_0007_1_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Exterior2" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:02 09:37:30" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-131.37" url="{node71}" title="" tilt="2.5" description="" skinid="ht_info" id="ExteriorRetorno1" target="-148.4/-1.3/102.8"/>
+      <hotspot pan="27.13" url="{node109}" title="" tilt="-14.16" description="" skinid="ht_node" id="Exterior2" target="20.9/-1.6/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node109" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_1001_o_0.jpg" prev4url="images/360_1001_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_1001_o_2.jpg" prev2url="images/360_1001_o_preview_2.jpg" prev5url="images/360_1001_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_1001_o_preview_1.jpg" tile1url="images/360_1001_o_1.jpg" tile5url="images/360_1001_o_5.jpg" tile4url="images/360_1001_o_4.jpg" prev3url="images/360_1001_o_preview_3.jpg" tile3url="images/360_1001_o_3.jpg" prev0url="images/360_1001_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-1.81" tilt="-0.94" projection="4" fov="69.8"/>
+      <flyin pan="-1.81" tilt="-0.94" projection="4" fov="69.8"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Exterior3" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 16:16:36" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-39.27" url="{node110}" title="" tilt="1.38" description="" skinid="ht_node" id="Exterior3" target="-34.3/0.6/70.0"/>
+      <hotspot pan="-153.95" url="{node113}" title="" tilt="-0.62" description="" skinid="ht_node" id="ExteriorRetorno2" target="-134.3/-7.0/70.0"/>
+      <hotspot pan="-6.65" url="" title="Silo 5" tilt="8.7" description="Nombre=Silos 3, 4 y 5&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=125 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Silo 5" target=""/>
+      <hotspot pan="55.8" url="{node100}" title="" tilt="-2.16" description="" skinid="ht_node" id="ExteriorIzquierda1" target="-46.2/-1.2/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node110" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_1002_o_0.jpg" prev4url="images/360_1002_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_1002_o_2.jpg" prev2url="images/360_1002_o_preview_2.jpg" prev5url="images/360_1002_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_1002_o_preview_1.jpg" tile1url="images/360_1002_o_1.jpg" tile5url="images/360_1002_o_5.jpg" tile4url="images/360_1002_o_4.jpg" prev3url="images/360_1002_o_preview_3.jpg" tile3url="images/360_1002_o_3.jpg" prev0url="images/360_1002_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Exterior4" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 16:17:00" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-32.99" url="{node91}" title="" tilt="0.01" description="" skinid="ht_node" id="Exterior4" target="-175.4/-1.6/70.0"/>
+      <hotspot pan="146.83" url="{node109}" title="" tilt="-3.9" description="" skinid="ht_node" id="ExteriorRetorno3" target="144.6/-3.3/70.0"/>
+      <hotspot pan="24.3" url="" title="Silo 5" tilt="13.87" description="Nombre=Silos 3, 4 y 5&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=125 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="Silo 5" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node91" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0010_o_0.jpg" prev4url="images/360_0010_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0010_o_2.jpg" prev2url="images/360_0010_o_preview_2.jpg" prev5url="images/360_0010_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0010_o_preview_1.jpg" tile1url="images/360_0010_o_1.jpg" tile5url="images/360_0010_o_5.jpg" tile4url="images/360_0010_o_4.jpg" prev3url="images/360_0010_o_preview_3.jpg" tile3url="images/360_0010_o_3.jpg" prev0url="images/360_0010_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Exterior5" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:02 09:42:26" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-177.36" url="{node111}" title="" tilt="0.25" description="" skinid="ht_node" id="Exterior5" target="-35.8/-0.2/70.0"/>
+      <hotspot pan="12.48" url="{node110}" title="" tilt="-0.97" description="" skinid="ht_node" id="ExteriorRetorno4" target="138.9/-4.8/70.0"/>
+      <hotspot pan="-92.3" url="" title="Silo 5" tilt="15.12" description="Nombre=Silos 3, 4 y 5&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=125 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="109A" target=""/>
+      <hotspot pan="-144.19" url="" title="Silo 4" tilt="13.76" description="Nombre=Silos 3, 4 y 5&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=125 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="109B" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node111" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_1003_o_0.jpg" prev4url="images/360_1003_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_1003_o_2.jpg" prev2url="images/360_1003_o_preview_2.jpg" prev5url="images/360_1003_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_1003_o_preview_1.jpg" tile1url="images/360_1003_o_1.jpg" tile5url="images/360_1003_o_5.jpg" tile4url="images/360_1003_o_4.jpg" prev3url="images/360_1003_o_preview_3.jpg" tile3url="images/360_1003_o_3.jpg" prev0url="images/360_1003_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Exterior6" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 16:17:24" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-33.87" url="{node98}" title="" tilt="-1.81" description="" skinid="ht_node" id="Exterior6" target="-176.4/-0.6/70.0"/>
+      <hotspot pan="138.87" url="{node91}" title="" tilt="-1.71" description="" skinid="ht_node" id="ExtreriorRetorno5" target="9.0/-3.0/70.0"/>
+      <hotspot pan="28.76" url="" title="Silo 4" tilt="12.8" description="Nombre=Silos 3, 4 y 5&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=125 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="109B" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node98" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0006_1_o_0.jpg" prev4url="images/360_0006_1_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0006_1_o_2.jpg" prev2url="images/360_0006_1_o_preview_2.jpg" prev5url="images/360_0006_1_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0006_1_o_preview_1.jpg" tile1url="images/360_0006_1_o_1.jpg" tile5url="images/360_0006_1_o_5.jpg" tile4url="images/360_0006_1_o_4.jpg" prev3url="images/360_0006_1_o_preview_3.jpg" tile3url="images/360_0006_1_o_3.jpg" prev0url="images/360_0006_1_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Exterior7" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:02 09:42:05" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-178.89" url="{node67}" title="" tilt="0.66" description="" skinid="ht_node" id="Exterior7" target="82.5/-0.7/70.0"/>
+      <hotspot pan="-77.39" url="" title="Silo 4" tilt="25.64" description="Nombre=Silos 3, 4 y 5&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=125 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="109B" target=""/>
+      <hotspot pan="-141.92" url="" title="Silo 3" tilt="14.9" description="Nombre=Silos 3, 4 y 5&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=125 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="109C" target=""/>
+      <hotspot pan="3.98" url="{node111}" title="" tilt="-3.03" description="" skinid="ht_node" id="ExteriorRetorno6" target="136.3/-1.4/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node67" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0023_1_o_0.jpg" prev4url="images/360_0023_1_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0023_1_o_2.jpg" prev2url="images/360_0023_1_o_preview_2.jpg" prev5url="images/360_0023_1_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0023_1_o_preview_1.jpg" tile1url="images/360_0023_1_o_1.jpg" tile5url="images/360_0023_1_o_5.jpg" tile4url="images/360_0023_1_o_4.jpg" prev3url="images/360_0023_1_o_preview_3.jpg" tile3url="images/360_0023_1_o_3.jpg" prev0url="images/360_0023_1_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Exterior8" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:02 09:38:51" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-12.57" url="{node68}" title="" tilt="-18.51" description="" skinid="ht_node" id="Caldera0" target="-160.0/-2.2/70.0"/>
+      <hotspot pan="89" url="{node95}" title="" tilt="2.14" description="" skinid="ht_node" id="Exterior8" target="178.3/2.0/70.0"/>
+      <hotspot pan="145.19" url="" title="Silo 3" tilt="20.01" description="Nombre=Silos 3, 4 y 5&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=125 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="109C" target=""/>
+      <hotspot pan="-100.61" url="{node98}" title="" tilt="-3.51" description="" skinid="ht_node" id="ExteriorRetorno7" target="3.7/-2.4/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node68" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0030_1_o_0.jpg" prev4url="images/360_0030_1_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0030_1_o_2.jpg" prev2url="images/360_0030_1_o_preview_2.jpg" prev5url="images/360_0030_1_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0030_1_o_preview_1.jpg" tile1url="images/360_0030_1_o_1.jpg" tile5url="images/360_0030_1_o_5.jpg" tile4url="images/360_0030_1_o_4.jpg" prev3url="images/360_0030_1_o_preview_3.jpg" tile3url="images/360_0030_1_o_3.jpg" prev0url="images/360_0030_1_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Exterior9" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:02 09:39:26" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="165.09" url="" title="Caldera" tilt="-5.77" description="Caldera" skinid="ht_info" id="113A" target=""/>
+      <hotspot pan="47.81" url="{node67}" title="" tilt="-4.65" description="" skinid="ht_node" id="ExteriorRetorno8" target="179.3/1.4/70.0"/>
+      <hotspot pan="-8.86" url="{node95}" title="" tilt="-3.88" description="" skinid="ht_node" id="Adelante0" target="-142.6/-0.8/70.0"/>
+      <hotspot pan="98.05" url="" title="Silo 5" tilt="15.01" description="Nombre=Silos 3, 4 y 5&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=125 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="109A" target=""/>
+      <hotspot pan="73.65" url="" title="Silo 4" tilt="16.03" description="Nombre=Silos 3, 4 y 5&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=125 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="109B" target=""/>
+      <hotspot pan="20.83" url="" title="Silo 3" tilt="15.61" description="Nombre=Silos 3, 4 y 5&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=125 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="109C" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node95" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_0001_3_o_0.jpg" prev4url="images/360_0001_3_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_0001_3_o_2.jpg" prev2url="images/360_0001_3_o_preview_2.jpg" prev5url="images/360_0001_3_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_0001_3_o_preview_1.jpg" tile1url="images/360_0001_3_o_1.jpg" tile5url="images/360_0001_3_o_5.jpg" tile4url="images/360_0001_3_o_4.jpg" prev3url="images/360_0001_3_o_preview_3.jpg" tile3url="images/360_0001_3_o_3.jpg" prev0url="images/360_0001_3_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="Exterior10" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:02 09:41:39" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-5.8" url="{node67}" title="" tilt="-2.25" description="" skinid="ht_node" id="ExteriorRetorno8" target="-99.9/-2.5/70.0"/>
+      <hotspot pan="-86.37" url="" title="Silo 3" tilt="17.28" description="Nombre=Silos 3, 4 y 5&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=125 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="109C" target=""/>
+      <hotspot pan="-149.66" url="" title="Silo 2" tilt="20.65" description="Nombre=Silos 1 y 2&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=250 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 15 días" skinid="ht_node" id="110A" target=""/>
+      <hotspot pan="-172.98" url="" title="Silo 1" tilt="16.6" description="Nombre=Silos 1 y 2&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=250 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 15 días" skinid="ht_info" id="110B" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node100" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_1005_o_0.jpg" prev4url="images/360_1005_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_1005_o_2.jpg" prev2url="images/360_1005_o_preview_2.jpg" prev5url="images/360_1005_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_1005_o_preview_1.jpg" tile1url="images/360_1005_o_1.jpg" tile5url="images/360_1005_o_5.jpg" tile4url="images/360_1005_o_4.jpg" prev3url="images/360_1005_o_preview_3.jpg" tile3url="images/360_1005_o_3.jpg" prev0url="images/360_1005_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="ExteriorIzquierda1" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 16:18:39" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-44.27" url="{node101}" title="" tilt="-1.83" description="" skinid="ht_node" id="ExteriorIxquierda2" target="-121.9/1.0/70.0"/>
+      <hotspot pan="131.62" url="{node109}" title="" tilt="2.13" description="" skinid="ht_node" id="Retorno" target="-127.1/2.4/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node101" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_1006_o_0.jpg" prev4url="images/360_1006_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_1006_o_2.jpg" prev2url="images/360_1006_o_preview_2.jpg" prev5url="images/360_1006_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_1006_o_preview_1.jpg" tile1url="images/360_1006_o_1.jpg" tile5url="images/360_1006_o_5.jpg" tile4url="images/360_1006_o_4.jpg" prev3url="images/360_1006_o_preview_3.jpg" tile3url="images/360_1006_o_3.jpg" prev0url="images/360_1006_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="ExteriorIzquierda2" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 16:19:07" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-169.4" url="{node102}" title="" tilt="5.97" description="" skinid="ht_node" id="ExteriorIzquierda3" target="21.8/-2.6/70.0"/>
+      <hotspot pan="72.97" url="{node100}" title="" tilt="-0.28" description="" skinid="ht_node" id="Retorno" target="144.3/1.9/70.0"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node102" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_1007_o_0.jpg" prev4url="images/360_1007_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_1007_o_2.jpg" prev2url="images/360_1007_o_preview_2.jpg" prev5url="images/360_1007_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_1007_o_preview_1.jpg" tile1url="images/360_1007_o_1.jpg" tile5url="images/360_1007_o_5.jpg" tile4url="images/360_1007_o_4.jpg" prev3url="images/360_1007_o_preview_3.jpg" tile3url="images/360_1007_o_3.jpg" prev0url="images/360_1007_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-19.16" tilt="-4.95" projection="4" fov="63.3"/>
+      <flyin pan="-19.16" tilt="-4.95" projection="4" fov="63.3"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="ExteriorIzquierda3" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 16:19:33" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-22.71" url="{node103}" title="" tilt="-4.98" description="" skinid="ht_node" id="ExteriorIzquierda4" target="-63.9/0.4/70.0"/>
+      <hotspot pan="-129.83" url="{node101}" title="" tilt="3.37" description="" skinid="ht_node" id="Retorno" target="22.5/-5.0/70.0"/>
+      <hotspot pan="-71.83" url="" title="Silo 3" tilt="17.96" description="Nombre=Silos 3, 4 y 5&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=125 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 8 días" skinid="ht_info" id="109C" target=""/>
+      <hotspot pan="-11.5" url="" title="Bolco" tilt="5.35" description="Bolco" skinid="ht_info" id="112A" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node103" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_1008_o_0.jpg" prev4url="images/360_1008_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_1008_o_2.jpg" prev2url="images/360_1008_o_preview_2.jpg" prev5url="images/360_1008_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_1008_o_preview_1.jpg" tile1url="images/360_1008_o_1.jpg" tile5url="images/360_1008_o_5.jpg" tile4url="images/360_1008_o_4.jpg" prev3url="images/360_1008_o_preview_3.jpg" tile3url="images/360_1008_o_3.jpg" prev0url="images/360_1008_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="ExteriorIzquierda4" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 16:20:03" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-61.64" url="{node104}" title="" tilt="1.42" description="" skinid="ht_node" id="ExteriorIzquierda5" target="-13.6/-0.6/70.0"/>
+      <hotspot pan="117.96" url="{node102}" title="" tilt="-5.56" description="" skinid="ht_node" id="Retorno" target="166.4/6.0/70.0"/>
+      <hotspot pan="-94.8" url="" title="Silo 2" tilt="25.7" description="Nombre=Silos 1 y 2&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=250 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 15 días" skinid="ht_info" id="111B" target=""/>
+      <hotspot pan="-44.72" url="" title="Bolco" tilt="20.12" description="Bolco" skinid="ht_info" id="112A" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node104" hideabout="1">
+    <input tilesize="1024" tile0url="images/360_1010_o_0.jpg" prev4url="images/360_1010_o_preview_4.jpg" levelingpitch="0" tile2url="images/360_1010_o_2.jpg" prev2url="images/360_1010_o_preview_2.jpg" prev5url="images/360_1010_o_preview_5.jpg" tilescale="1.009766" levelingroll="0" prev1url="images/360_1010_o_preview_1.jpg" tile1url="images/360_1010_o_1.jpg" tile5url="images/360_1010_o_5.jpg" tile4url="images/360_1010_o_4.jpg" prev3url="images/360_1010_o_preview_3.jpg" tile3url="images/360_1010_o_3.jpg" prev0url="images/360_1010_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="ExteriorIzquierda5" info="" description="" source="" longitude="" latitude="" tags="" customnodeid="" author="" datetime="2018:06:06 16:21:23" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" textcolor="0x000000" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="168.56" url="{node103}" title="" tilt="-4.05" description="" skinid="ht_node" id="Retorno" target="121.6/-6.1/70.0"/>
+      <hotspot pan="-28.72" url="" title="Silo 1" tilt="26.86" description="Nombre=Silos 1 y 2&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=250 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 15 días" skinid="ht_info" id="111A" target=""/>
+      <hotspot pan="-73.12" url="" title="Silo 2" tilt="34.13" description="Nombre=Silos 1 y 2&lt;br /&gt;Temp Max=SIN DATO&lt;br /&gt;Temp Min=SIN DATO&lt;br /&gt;Presion=SIN DATO&lt;br /&gt;Capacidad=250 toneladas&lt;br /&gt;Mantenimiento=4 meses&lt;br /&gt;Limpieza=Cada 15 días" skinid="ht_info" id="111B" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomin="2" blendcolor="0x000000" zoomoutpause="1" blendtime="2" softedge="0" zoomspeed="2" enabled="1" type="crossdissolve" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="0" contextfullscreen="0" contextprojections="0" sensitivity="8" speedwheel="1" hideabout="1"/>
+  </panorama>
+</tour>

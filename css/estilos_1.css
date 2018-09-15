@@ -1,0 +1,112 @@
+/*------ CLASES ------*/
+
+/*# FONDOS #*/
+.fondoFooter{
+    background-color: #333;
+}
+/*--------------------------------*/
+
+/*# FOOTER #*/
+.footer {
+    height: 60px;
+    padding-top: 20px;
+}
+
+.footer p{
+    color: #FFF; /* text color */
+    font-size: 12px;
+    display: inline-block;
+    margin: 0;
+
+}
+/*--------------------------------*/
+
+
+/*# ALERTAS #*/
+.contenedor_error{
+    display: none !important;
+}
+
+.contenedor_error_visible{
+    display: block !important;
+}
+
+
+.contenedor_exito{
+    display: none !important;
+}
+
+.contenedor_exito_visible{
+    display: block !important;
+}
+
+.borde_bien{
+   border: 1px solid rgba(0,0,0,.2);	
+}
+
+.borde_error{
+   border: 2px solid #FF002A !important; 
+}
+
+/*--------------------------------*/
+
+
+/*# LOGO #*/
+.logo{
+    margin: 0;
+	background: url(./../imagenes/AVIMOL.png);
+    width: 228px;
+    height: 90px;
+    display: inline-block;
+    background-size: 100%;
+}
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 150%;
+}
+/*--------------------------------*/
+
+
+/*# CENTRAR #*/
+.centrar{
+    text-align: center;
+}
+/*--------------------------------*/
+
+/*# CLASES DE ERROR #*/
+.error{
+    border: 2px solid #FF002A !important;
+}
+
+.select.error{
+    border: 2px solid #FF002A !important;
+}
+
+
+input.error{
+    border: 2px solid #FF002A;
+}
+
+textarea.error{
+    border: 2px solid #FF002A;
+}
+/*--------------------------------*/
+
+
+/*# CLASES DE ERROR #*/
+.visibleNone{
+    display: none;
+}
+/*--------------------------------*/
+
+/*------ END CLASES ------*/
